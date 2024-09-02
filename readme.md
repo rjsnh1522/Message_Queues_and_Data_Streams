@@ -1,0 +1,34 @@
+# Learning RQ, Reddis, and Kafka
+#### Will be building different apps or project depending on requirement to understand above mentioned things
+
+
+
+## Rabbit MQ using Pika
+#### POC to check what RQ Offers 
+
+- For understand RQ better, we will be building event driven system of instagram
+- not interacting with database, just assuming everything is working as expected and just trigger the event
+- and it should log or print at the consumer end.
+- Might write test cases or Fast API app for this.
+
+
+
+
+
+
+## Kafka
+#### Yet to come
+
+
+
+## Reddis
+##### Yet to Come
+
+
+
+
+
+
+
+
+#### Happy Learning.
