@@ -1,5 +1,5 @@
 # Learning RQ, Reddis, and Kafka
-#### Will be building different apps or project depending on requirement to understand above mentioned things
+#### Will be building different apps or project depending on requirement to understand above mentioned Message_Queues_and_Data_Streams
 
 
 
