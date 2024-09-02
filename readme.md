@@ -1,7 +1,8 @@
 # Learning RQ, Reddis, and Kafka
-#### Will be building different apps or project depending on requirement to understand above mentioned Message_Queues_and_Data_Streams
 
+Will be building different apps or project depending on requirement to understand above mentioned Message_Queues_and_Data_Streams
 
+---
 
 ## Rabbit MQ using Pika
 #### POC to check what RQ Offers 
@@ -10,6 +11,8 @@
 - not interacting with database, just assuming everything is working as expected and just trigger the event
 - and it should log or print at the consumer end.
 - Might write test cases or Fast API app for this.
+
+---
 
 - rabbit
   - basic_producer_consumer
@@ -20,13 +23,17 @@
     - routing
     - work_queues
 
-
+---
 
 
 ## Kafka
 #### Yet to come
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Reddis
 ##### Yet to Come
@@ -36,6 +43,11 @@
 
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
+---
 #### Happy Learning.
