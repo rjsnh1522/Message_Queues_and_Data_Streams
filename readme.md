@@ -11,7 +11,14 @@
 - and it should log or print at the consumer end.
 - Might write test cases or Fast API app for this.
 
-
+- rabbit
+  - basic_producer_consumer
+    - multi_bindings
+  - instagram_EDA
+  - rabbit_mq_doc
+    - pub_sub
+    - routing
+    - work_queues
 
 
 
