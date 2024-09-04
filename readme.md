@@ -19,9 +19,11 @@ Will be building different apps or project depending on requirement to understan
     - multi_bindings
   - instagram_EDA
   - rabbit_mq_doc
+    - work_queues
     - pub_sub
     - routing
-    - work_queues
+    - topic
+    - rpc
 
 ---
 
